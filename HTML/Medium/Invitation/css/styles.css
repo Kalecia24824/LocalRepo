@@ -1,0 +1,104 @@
+body {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    background-color: #eec0ff;
+    color: #000000;
+}
+
+header {
+    background-color: #c655ff;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header h2 {
+    margin: 0.5em 0 0 0;
+    font-size: 1.5em;
+}
+
+section {
+    padding: 2em;
+    margin: 1em auto;
+    width: 80%;
+    background-color: #faf6fb;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+section h3 {
+    margin-top: 0;
+}
+
+#schedule table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#schedule table, #schedule th, #schedule td {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+}
+
+#schedule th {
+    background-color: #c655ff;
+    color: white;
+}
+
+#location img {
+    width: 200px;
+    height: 200px;
+}
+
+#rsvp form {
+    display: flex;
+    flex-direction: column;
+}
+
+#rsvp label {
+    margin-top: 0.5em;
+}
+
+#rsvp input, #rsvp textarea {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    font-size: 1em;
+}
+
+#rsvp input[type="submit"] {
+    background-color: #c655ff;
+    color: white;
+    font-family: "Courgette", cursive;
+    border: none;
+    cursor: pointer;
+    padding: 1em;
+}
+
+#rsvp input[type="submit"]:hover {
+    background-color: #c655ff;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.gallery img {
+    width: calc(50% - 1em);
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #c655ff;
+    color: white;
+}
