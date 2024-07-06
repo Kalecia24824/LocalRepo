@@ -4,14 +4,14 @@ In here, you can find all of my beginner projects in HTML, CSS and JavaScript. B
 
 ## Folder List with Descriptions:
 
-### Easy: (Just HTML)
+### Easy: (Basic HTML)
 These projects are super easy to code. They are designed to how easy anyone can start coding.
 
 1. Recipe Page: A simple web page that displays a recipe 
 
 2. Event Invitation: An event invitation for a party
 
-3. Book List: A book list of my favorite books 
+3. Contact Form: A simple form for contact 
 
 4. Travel Guide: A guide for Italy with attractions, food and culture tips 
 
