@@ -7,40 +7,28 @@ In here, you can find all of my beginner projects in HTML, CSS and JavaScript. B
 ### Easy: (Basic HTML)
 These projects are super easy to code. They are designed to how easy anyone can start coding.
 
-1. Recipe Page: A simple web page that displays a recipe 
+- <strong>Recipe Page</strong>: A simple web page that displays a recipe 
 
-2. Event Invitation: An event invitation for a party
+- <strong>Contact Form</strong>: A simple form for contact 
 
-3. Contact Form: A simple form for contact 
-
-4. Travel Guide: A guide for Italy with attractions, food and culture tips 
-
-5. FAQ Page: A page of frequently asked questions about HTML
-
+- <strong>Travel Guide</strong>: A guide for Italy with attractions, food and culture tips 
+<br> <br>
 
 ### Medium (HTML & CSS):
 The Medium projects will use CSS to display how powerful CSS can bring some color to HTML
 
-1. Restaurant Menu: A Restaurant Menu with appetizers, entrees and desserts
+- <strong>Restaurant Menu</strong>: A Restaurant Menu with appetizers, entrees and desserts
 
-2. Computer Sign-Up: An email sign-up form for a new computer release 
+- <strong>Computer Sign-Up</strong>: An email sign-up form for a new computer release 
 
-3. Product Landing Page: A landing page for shoes 
+- <strong>Photo Gallery</strong>: A gallery of flower photos 
+<br> <br>
 
-4. Photo Gallery: A gallery of flower photos 
+### Professional (HTML, CSS & JavaScript):
+The Professional projects have a mix of HTML, CSS and JS. This folder is designed to show the interactive actions of JavaScript. 
 
-5. Contact Form: A contact for a nighttime carnival
+- <strong>Simple Calculator</strong>: A calculator that can add, subtract, multiply and divide
 
+- <strong>Weather App</strong>: A weather app which uses an API to get accurate results 
 
-### Hard (HTML, CSS & JavaScript):
-The Hard projects have a mix of HTML, CSS and JS. This folder is designed to show the interactive actions of JavaScript. 
-
-1. To-Do List: A to-do list where users can add, edit, update and delete tasks
-
-2. Simple Calculator: A calculator that can add, subtract, multiply and divide
-
-3. Weather App: A weather app which uses an API to get accurate results 
-
-4. Quiz App: An app where users have to answer a quiz 
-
-5. Interactive Story: An app where users can make decisions 
+- <strong>Interactive Story</strong>: An app where users can make decisions 
