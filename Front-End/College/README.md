@@ -15,8 +15,3 @@ This is the folder that contains all of my work in web design. This includes lea
 [Web-App README](Web-App/README.md "My Web App Folder")
 
 This folder holds all of my knowledge and demonstration in web development. It contains basic static files using HTML, CSS and JavaScript, projects highlighting my skills and a final advanced web deployment using the Tomcat server. 
-
-### Back End Development:
-[Back-End README](Back-End/README.md "My Back-End Folder")
-
-In this folder, it has all of my work in different backend development languages such as Java and MySQL. There are simple files displaying my proficiency over time, labs and final projects. 

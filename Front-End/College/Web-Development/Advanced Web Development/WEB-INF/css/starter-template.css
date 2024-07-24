@@ -1,0 +1,28 @@
+body
+{
+  padding-top: 50px;
+}
+.starter-template
+{
+  padding: 0px 15px;
+  text-align: center;
+}
+h1
+{
+	margin: 0px;     
+	color: #880176;
+	padding: 0px;
+	font-size: 36px;   
+}
+
+@font-face {
+	font-family: myFirstFont;
+	src: url(sansation_light.woff);
+}
+html * {
+	font-family: myFirstFont;
+}
+
+ul {
+	color: #f6a1e7;
+}
